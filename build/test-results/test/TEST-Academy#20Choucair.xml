@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-27T20:31:21" hostname="DESKTOP-BEEVPKJ" time="47.853">
+  <properties/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="47.853"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1e179c1
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2a7dc8c1
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3b3e8489
+nov 27, 2020 3:31:24 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 8905
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1606509090.756][WARNING]: This version of ChromeDriver has not been tested with Chrome version 87.
+nov 27, 2020 3:31:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4b1730da
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5a850ee4
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7fa3270d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4051fc68
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2c2aa878
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@49c1f4ea
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@9e94d2e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6bb13188
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@25596055
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3e7165d9
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3942cc8
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@27b84f65
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2025b98e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]], Then he finds the course called
+| strCourse |
+| Metodología Bancolombia | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]], Then he finds the course called
+| strCourse |
+| Metodología Bancolombia | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]], Then he finds the course called
+| strCourse |
+| Metodología Bancolombia | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]], Then he finds the course called
+| strCourse |
+| Metodología Bancolombia | [Then answer]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]], Then he finds the course called
+| strCourse |
+| Metodología Bancolombia | [Then answer]]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for a automation course:Example: {strUser=1088299261, strPassword=Choucair2020*, strCourse=Metodología Bancolombia} [Given that Pablo wants to learn automation at the academy choucair
+| strUser | strPassword |
+| 1088299261 | Choucair2020* | [Pablo open up [Pablo opens the Choucair academy page], Pablo login [Pablo clicks on button that shows us the form to login, Pablo enters '1088299261' into where we write the user, Pablo enters 'Choucair2020*' into where we write the password of user, Pablo clicks on Button to confirm the data of user]], When he search for the course on the Choucair Academy platform
+| strCourse |
+| Metodología Bancolombia | [Pablo search [Pablo clicks on button that shows us the courses, Pablo enters 'Metodología Bancolombia' into Search the course, Pablo clicks on click to search the course, Pablo clicks on click to select the course]], Then he finds the course called
+| strCourse |
+| Metodología Bancolombia | [Then answer]]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Search for a automation course
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
